@@ -1,0 +1,4 @@
+{
+    "name": "komp/laravelproject",
+    "require": {"spatie/yaml-front-matter": "^2.1"}
+}
